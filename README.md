@@ -3,7 +3,7 @@ Hi! I'm Denis (or Saharoc) — a Linux enthusiast and developer from Russia.
 ![Saharoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saharoc-game&show_icons=true&theme=radical&hide_title=true)
 
 💡 My focus:
-- Python (3+ years of experience)
+- Python (3+ years of experience) ![Python](https://img.shields.io/badge/Python-3+-blue?logo=python&logoColor=white)
 - C++ (currently diving into it)
 - Socket programming and low-level networking
 - Linux systems, scripting, and automation
