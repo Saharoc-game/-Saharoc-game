@@ -1,4 +1,3 @@
-# -Saharoc-game
 Hi! I'm Denis — a Linux enthusiast and developer.
 
 💡 My focus:
